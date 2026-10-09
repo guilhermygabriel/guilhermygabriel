@@ -25,7 +25,8 @@ Aplicação web desenvolvida com **HTML, CSS e JavaScript**, utilizando a Fetch 
 - Tratamento de erros e estados de carregamento
 
 🔗 [Acessar repositório](https://github.com/guilhermygabriel/lista-de-usuarios)
-🌐 [Acessar projeto online](https://guilhermygabriel.github.io/lista-de-usuarios/)
+🌐 [Acessar projeto "Lista de usuarios" online](https://guilhermygabriel.github.io/lista-de-usuarios/)
+🌐 [Acesse o projeto "AnotaMix" online](https://guilhermygabriel.github.io/anotamix/)
 
 ## 🎯 Objetivo profissional
 
